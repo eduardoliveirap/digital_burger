@@ -23,10 +23,10 @@ const HTMLHEAD = (`
 
                 <ul>
                     <li>
-                        <a href="./assets/pages/instaTroll.html"><i class="bi bi-instagram"></i></a>
+                        <a target="_blank href="./assets/pages/instaTroll.html"><i class="bi bi-instagram"></i></a>
                     </li>
                     <li>
-                        <a href="https://github.com/KevinDik/digital_burger"><i class="bi bi-github"></i></a>
+                        <a target="_blank" href="https://github.com/KevinDik/digital_burger"><i class="bi bi-github"></i></a>
                     </li>
                 </ul>
             </nav>
